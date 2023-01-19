@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Farm Lan1",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, enim officiis fugit delectus modi nihil earum qui sunt laborum in vitae necessitatibus error a maxime odit veniam nulla ab sed et quo eum voluptatem! Fuga sint voluptatum placeat tenetur. Commodi incidunt dicta illum hic repellat tenetur quibusdam veritatis? Labore, commodi.",
+    "image": "images/react.svg"
+  },
+  {
+    "title": "Farm Lan1",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, enim officiis fugit delectus modi nihil earum qui sunt laborum in vitae necessitatibus error a maxime odit veniam nulla ab sed et quo eum voluptatem! Fuga sint voluptatum placeat tenetur. Commodi incidunt dicta illum hic repellat tenetur quibusdam veritatis? Labore, commodi.",
+    "image": "images/dog.svg"
+  },
+  {
+    "title": "Farm Lan1",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, enim officiis fugit delectus modi nihil earum qui sunt laborum in vitae necessitatibus error a maxime odit veniam nulla ab sed et quo eum voluptatem! Fuga sint voluptatum placeat tenetur. Commodi incidunt dicta illum hic repellat tenetur quibusdam veritatis? Labore, commodi.",
+    "image": "images/cat.svg"
+  }
+]
